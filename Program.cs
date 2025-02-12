@@ -6,7 +6,7 @@ app.MapGet("/", () => "Hello, from the web");
 app.Run(async (HttpContext httpContext) =>
 {
     httpContext.Response.StatusCode = 400;
-    await httpContext.Response.WriteAsync("Hello there from http word");
+    await httpContext.Response.WriteAsync("Hello from the other  work");
 });
 
 app.Run();

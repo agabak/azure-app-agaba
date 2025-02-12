@@ -23,3 +23,7 @@ C:\dev\webapp\webapp\obj\Debug\net8.0\refint\webapp.dll
 C:\dev\webapp\webapp\obj\Debug\net8.0\webapp.pdb
 C:\dev\webapp\webapp\obj\Debug\net8.0\webapp.genruntimeconfig.cache
 C:\dev\webapp\webapp\obj\Debug\net8.0\ref\webapp.dll
+C:\dev\webapp\webapp\bin\Debug\net8.0\webapp.staticwebassets.endpoints.json
+C:\dev\webapp\webapp\obj\Debug\net8.0\webapp.sourcelink.json
+C:\dev\webapp\webapp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\dev\webapp\webapp\obj\Debug\net8.0\staticwebassets\msbuild.webapp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
